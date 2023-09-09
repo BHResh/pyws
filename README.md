@@ -24,3 +24,7 @@ This is to be used to learn Git-based development.
 
 * 9-11pm (Github Intro)
 * 12-1 (Lunch)
+
+###### Addition
+
+This is written as an addition to this coding...
